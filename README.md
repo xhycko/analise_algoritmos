@@ -5,7 +5,7 @@ Repositório de Análise de Algoritmos da UFERSA Angicos no semestre 2024.3 do p
 
 #### 1. (5,0) Análise de Desempenho de Algoritmos
 
-Crie um programa na linguagem de programação de sua preferência para analisar o desempenho de dois algoritmos diferentes na resolução do seguinte problema: a ordenação de uma lista de 87951357 nomes, que está [aqui](nomes_aa.txt). Os nomes devem ser lidos desse arquivo.
+Crie um programa na linguagem de programação de sua preferência para analisar o desempenho de dois algoritmos diferentes na resolução do seguinte problema: a ordenação de uma lista de 87951357 nomes, que está [aqui](nomes_aa.csv). Os nomes devem ser lidos desse arquivo.
 
 Seu programa deve implementar os algoritmos e medir o tempo de execução. Faça para:
 

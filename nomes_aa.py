@@ -24,7 +24,7 @@ ultimos_nomes = [
 ]
 
 saida = "nomes_aa.csv"
-numero_nomes = 879513  # Número total de nomes
+numero_nomes = 87951399  # Número total de nomes
 
 def gerar_nome_completo():
     primeiro = random.choice(primeiros_nomes)

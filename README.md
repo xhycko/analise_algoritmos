@@ -51,7 +51,8 @@ A ver.
 
 
 
-
+#### Visualização de algoritmos:
 https://visualgo.net/en
 
+#### Visualização de algoritmos:
 https://www.cs.usfca.edu/~galles/visualization/Algorithms.html

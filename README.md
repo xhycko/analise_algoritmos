@@ -48,3 +48,10 @@ A ver.
 #### 1. (5,0) Algoritmos de Grafos
 
 A ver.
+
+
+
+
+https://visualgo.net/en
+
+https://www.cs.usfca.edu/~galles/visualization/Algorithms.html

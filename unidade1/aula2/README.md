@@ -1,7 +1,7 @@
 ### U1 - Aula 2 - 15/05/2025 - Força bruta, busca linear e busca binária
 
 #### (1,0) Força Bruta – Busca em Vetor
-Implemente e compare o desempenho de dois algoritmos de busca em um vetor de números inteiros: Busca Linear e Busca Binária. Use o (código base)[ComparaBuscas.java] fornecido em Java para medição de tempo, ou re-implemente em outra linguagem de sua preferência.
+Implemente e compare o desempenho de dois algoritmos de busca em um vetor de números inteiros: Busca Linear e Busca Binária. Use o [código base](ComparaBuscas.java) fornecido em Java para medição de tempo, ou re-implemente em outra linguagem de sua preferência.
 
 1. Implementar Busca Linear: Implemente a busca linear, que percorre o vetor do início ao fim, comparando cada elemento com o número alvo.
 2. Usar Busca Binária: utilize Arrays.binarySearch() da biblioteca padrão.

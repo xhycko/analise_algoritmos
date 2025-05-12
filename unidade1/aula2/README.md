@@ -12,7 +12,19 @@ Crie um arquivo readme na pasta unidade1/exercicio1/README.md do seu repositóri
 
 Registre os tempos de execução obtidos para cada tamanho de vetor e cada tipo de busca no README.md
 
-Ao final do README.md, escreva uma análise comparativa entre os tempos observados. Qual a ordem de complexidade de cada busca?
+Ao final do README.md, escreva uma análise comparativa entre os tempos observados, conforme tabela:
+
+#### Investigando força bruta - Fulano de Tal
+| Tamanho do Vetor | Busca Linear (ms) | Busca Binária (ms) |
+|------------------|-------------------|--------------------|
+| 10               | X                 | X                  |
+| 100              | X                 | X                  |
+| 1.000            | X                 | X                  |
+| 10.000           | X                 | X                  |
+| 100.000          | X                 | X                  |
+| 1.000.000        | X                 | X                  |
+
+Comente: Qual a ordem de complexidade de cada busca?
 
 Faça commit e push da sua implementação, junto com o arquivo .java modificado, todos na pasta unidade1/exercicio1.
 

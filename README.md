@@ -2,57 +2,55 @@
 
 Repositório de Análise de Algoritmos da UFERSA Angicos - Semestre 2025.1 - Professor Francisco Arruda (Xico).
 
-### Unidade 1 - Exercício de Avaliação.
+---
 
-#### 1. (2,5) Análise de Desempenho - Ordenação - Até ??/??/202?
+### U1 - Aula 1 - 08/05/2025 - Análise Assintótica
 
-Nessa atividade serão criados 2 programas em linguagens de programação diferentes. Os programas deverão ter como saída o tempo de execução de dois algoritmos diferentes. Os programas deverão fazer a ordenação de uma lista de 879513 nomes. Os nomes a serem ordenados estão na primeira coluna desse arquivo [aqui](nomes_aa.csv). Para ler o nome, tokenize os valores separados por ";".
-
-Crie 2 programas, sendo:
-1. **BubbleSort** e **QuickSort** em linguagem compilada para código nativo (c, c++, golang, rust, ou outra de sua preferência).
-2. **BubbleSort** e **QuickSort** em linguagem interpretada (python, java, javascript, c# ou outra de sua preferência).
-
-Seu programa deve implementar e medir o tempo de execução para os algoritmos de ordenação citados. Execute 3x e exiba a saída dos tempos em uma tabela comparativa. Sugiro [esse formato](padraoRespostaAA.png).
-
-Ao final, faça _commit_ e _push_ para um repositório no GitHub ou coloque no gDrive e compartilhe com o professor.
-
-##### Considerações:
-1. Use funções ou métodos para cada algoritmo e cada chamada, organize seu código.
-2. Utilize recursos da linguagem para medir o tempo de execução, e não "system calls".
-3. Explique as diferenças no desempenho de cada um, incluindo a análise assintótica.
-
-#### 2. (2,5) Análise de Desempenho - Busca - Até ??/??/202?
-Modifique os 2 programas da questão 1, onde você adicionará duas funções para buscar a string "Alan Johnson Lee;18;39.0" na lista de 879513 nomes que estão na primeira coluna do [arquivo de nomes](nomes_aa.csv) da questão anterior.
-
-Ajuste os programas do exercício 1 para fazer:
-1. **Busca Linear** e **Busca Binária** em linguagem compilada para código nativo (c, c++, golang, rust, ou outra de sua preferência).
-2. **Busca Linear** e **Busca Binária** em linguagem interpretada (python, java, javascript, c# ou outra de sua preferência).
-
-Seu programa deve implementar e medir o tempo de execução para os algoritmos de ordenação citados. Execute 3x e exiba a saída dos tempos em uma tabela comparativa. Sugiro [esse formato](padraoRespostaAA.png).
-
-Ao final, faça _commit_ e _push_ para um repositório no GitHub ou coloque no gDrive e compartilhe com o professor.
-
-##### Considerações:
-1. Use funções ou métodos para cada algoritmo e cada chamada, organize seu código.
-2. Utilize recursos da linguagem para medir o tempo de execução, e não "system calls".
-3. Explique as diferenças no desempenho de cada um, incluindo a análise assintótica.
-
-### Unidade 2 - Exercício de Avaliação.
-
-#### 1. (5,0) Algoritmos de Árvores
-
-A ver.
-
-### Unidade 3 - Exercício de Avaliação.
-
-#### 1. (5,0) Algoritmos de Grafos
-
-A ver.
+Análise assintótica [aqui](unidade1/aula1).
 
 
+### U1 - Aula 2 - 15/05/2025 - Força bruta, busca linear e busca binária (1,0)
 
-#### Visualização de algoritmos:
+Força bruta [aqui](unidade1/aula2).
+
+### U1 - Aula 3 - ??/??/2025 - ?
+
+a ver com [exercícios](unidade1/aulaX.md).
+
+### U1 - Aula 4 - 20/06/2025 - ?
+
+Não tem aula.
+
+---
+
+### U2 - Aula 4 - ??/??/2025 - ?
+
+a ver com [exercícios](unidade1/aulaX.md).
+
+### U2 - Aula 7 - ??/??/2025 - ?
+
+a ver com [exercícios](unidade1/aulaX.md).
+
+---
+
+### U3 - Aula 8 - ??/??/2025 - ?
+
+a ver com [exercícios](unidade1/aulaX.md).
+
+---
+
+## Material Extra
+
+### Material da Disciplina
+
+Material da disciplina [no gDrive](https://drive.google.com/open?id=18zo72s1Jhv8IbED_gvbLMD9umGDsjFZ2). Use sua conta institucional.
+
+### Vídeos - Análise de Algoritmos
+
+- [Por Carla Quem Disse - UFABC](https://www.youtube.com/playlist?list=PLncEdvQ20-mgGanwuFczm-4IwIdIcIiha)
+
+### Visualização de algoritmos:
 https://visualgo.net/en
 
-#### Visualização de algoritmos:
+### Visualização de algoritmos:
 https://www.cs.usfca.edu/~galles/visualization/Algorithms.html

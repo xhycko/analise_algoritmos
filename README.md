@@ -49,7 +49,7 @@ Material da disciplina [no gDrive](https://drive.google.com/open?id=18zo72s1Jhv8
 
 Por [Carla Quem Disse - UFABC](https://www.youtube.com/playlist?list=PLncEdvQ20-mgGanwuFczm-4IwIdIcIiha)
 
-Na [UNIVESP](https://www.youtube.com/watch?v=1IdzuBjQojI&list=PLxI8Can9yAHf0301dOCgw8a2U_G3UcOjh')
+Na [UNIVESP](https://www.youtube.com/playlist?list=PLxI8Can9yAHf0301dOCgw8a2U_G3UcOjh)
 
 ### Visualização de algoritmos:
 https://visualgo.net/en

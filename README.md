@@ -45,9 +45,9 @@ a ver com [exercícios](unidade1/aulaX.md).
 
 Material da disciplina [no gDrive](https://drive.google.com/open?id=18zo72s1Jhv8IbED_gvbLMD9umGDsjFZ2). Use sua conta institucional.
 
-### Vídeos - Análise de Algoritmos
+### Aulas - Análise de Algoritmos
 
-- [Por Carla Quem Disse - UFABC](https://www.youtube.com/playlist?list=PLncEdvQ20-mgGanwuFczm-4IwIdIcIiha)
+Por [Carla Quem Disse - UFABC](https://www.youtube.com/playlist?list=PLncEdvQ20-mgGanwuFczm-4IwIdIcIiha)
 
 ### Visualização de algoritmos:
 https://visualgo.net/en

@@ -1,45 +1,38 @@
-#### 1. (2,5) Análise de Desempenho - Ordenação - Até ??/??/202?
+### U1 - Aula 3 - 22/05/2025 - Branch and Bounds, busca
 
-Nessa atividade serão criados 2 programas em linguagens de programação diferentes. Os programas deverão ter como saída o tempo de execução de dois algoritmos diferentes. Os programas deverão fazer a ordenação de uma lista de 879513 nomes. Os nomes a serem ordenados estão na primeira coluna desse arquivo [aqui](nomes_aa.csv). Para ler o nome, tokenize os valores separados por ";".
+#### (2,0) Busca em Vetor
 
-Crie 2 programas, sendo:
-1. **BubbleSort** e **QuickSort** em linguagem compilada para código nativo (c, c++, golang, rust, ou outra de sua preferência).
-2. **BubbleSort** e **QuickSort** em linguagem interpretada (python, java, javascript, c# ou outra de sua preferência).
+Compare o desempenho, com o vetor de tamanho 10.000.000. Se quiser, use outro método de busca da linguagem.
 
-Seu programa deve implementar e medir o tempo de execução para os algoritmos de ordenação citados. Execute 3x e exiba a saída dos tempos em uma tabela comparativa. Sugiro [esse formato](padraoRespostaAA.png).
+Faça commit e push da sua implementação, junto com análise de desempenho e os arquivos na pasta unidade1\exercicio2 no seu repositório da disciplina.
 
-Ao final, faça _commit_ e _push_ para um repositório no GitHub ou coloque no gDrive e compartilhe com o professor.
+Em python
 
-##### Considerações:
-1. Use funções ou métodos para cada algoritmo e cada chamada, organize seu código.
-2. Utilize recursos da linguagem para medir o tempo de execução, e não "system calls".
-3. Explique as diferenças no desempenho de cada um, incluindo a análise assintótica.
+```python
+vetor = [71, 21, 33, 5, 84]
 
-#### 2. (2,5) Análise de Desempenho - Busca - Até ??/??/202?
-Modifique os 2 programas da questão 1, onde você adicionará duas funções para buscar a string "Alan Johnson Lee;18;39.0" na lista de 879513 nomes que estão na primeira coluna do [arquivo de nomes](nomes_aa.csv) da questão anterior.
+if 33 in vetor:
+    print("30 está na lista")
+else:
+    print("30 não está na lista")
+```
 
-Ajuste os programas do exercício 1 para fazer:
-1. **Busca Linear** e **Busca Binária** em linguagem compilada para código nativo (c, c++, golang, rust, ou outra de sua preferência).
-2. **Busca Linear** e **Busca Binária** em linguagem interpretada (python, java, javascript, c# ou outra de sua preferência).
+Em Java
 
-Seu programa deve implementar e medir o tempo de execução para os algoritmos de ordenação citados. Execute 3x e exiba a saída dos tempos em uma tabela comparativa. Sugiro [esse formato](padraoRespostaAA.png).
+```java
+public class BuscaVetor {
+    public static void main(String[] args) {
+        int[] vetor = {71, 21, 33, 5, 84};
+        boolean encontrado = false;
 
-Ao final, faça _commit_ e _push_ para um repositório no GitHub ou coloque no gDrive e compartilhe com o professor.
+        for (int i = 0; i < vetor.length; i++)
+            if (vetor[i] == 33) {
+                System.out.println(33 + " está na lista");
+                encontrado = true;
+            }
 
-##### Considerações:
-1. Use funções ou métodos para cada algoritmo e cada chamada, organize seu código.
-2. Utilize recursos da linguagem para medir o tempo de execução, e não "system calls".
-3. Explique as diferenças no desempenho de cada um, incluindo a análise assintótica.
-
-### Unidade 2 - Exercício de Avaliação.
-
-#### 1. (5,0) Algoritmos de Árvores
-
-A ver.
-
-### Unidade 3 - Exercício de Avaliação.
-
-#### 1. (5,0) Algoritmos de Grafos
-
-A ver.
-
+        if (!encontrado)
+            System.out.println(33 + " não está na lista");
+   }
+}
+```

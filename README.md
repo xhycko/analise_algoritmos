@@ -13,9 +13,9 @@ Análise assintótica [aqui](unidade1/aula1).
 
 Força bruta [aqui](unidade1/aula2).
 
-### U1 - Aula 3 - ??/??/2025 - ?
+### U1 - Aula 3 - 22/05/2025 - Branch and Bounds, busca
 
-a ver com [exercícios](unidade1/aulaX.md).
+Branch and Bounds, busca com [exercícios](unidade1/aula3).
 
 ### U1 - Aula 4 - 20/06/2025 - ?
 

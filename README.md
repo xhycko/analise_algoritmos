@@ -19,7 +19,7 @@ Análise assintótica e busca com [exercícios](unidade1/aula3).
 
 ### U1 - Aula 4 - 29/05/2025 - Branch and Bounds, algoritmos gulosos (2,0)
 
-Branch and Bounds, busca com [exercícios](unidade1/aula4).
+Branch and Bounds, gulosos com [exercícios](unidade1/aula4).
 
 ---
 

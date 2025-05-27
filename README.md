@@ -13,29 +13,25 @@ Análise assintótica [aqui](unidade1/aula1).
 
 Força bruta [aqui](unidade1/aula2).
 
-### U1 - Aula 3 - 22/05/2025 - Branch and Bounds, busca
+### U1 - Aula 3 - 22/05/2025 - Análise Assintótica e Busca (2,0)
 
-Branch and Bounds, busca com [exercícios](unidade1/aula3).
+Análise assintótica e busca com [exercícios](unidade1/aula3).
 
-### U1 - Aula 4 - 20/06/2025 - ?
+### U1 - Aula 4 - 29/05/2025 - Branch and Bounds, algoritmos gulosos (2,0)
 
-Não tem aula.
+Branch and Bounds, busca com [exercícios](unidade1/aula4).
 
 ---
 
 ### U2 - Aula 4 - ??/??/2025 - ?
 
-a ver com [exercícios](unidade1/aulaX.md).
-
-### U2 - Aula 7 - ??/??/2025 - ?
-
-a ver com [exercícios](unidade1/aulaX.md).
+A ver com [exercícios](unidade1/aulaX.md).
 
 ---
 
 ### U3 - Aula 8 - ??/??/2025 - ?
 
-a ver com [exercícios](unidade1/aulaX.md).
+A ver com [exercícios](unidade1/aulaX.md).
 
 ---
 

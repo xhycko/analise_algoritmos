@@ -1,12 +1,3 @@
-### U1 - Aula 4 - 29/05/2025 - Branch and Bounds, algoritmos gulosos (2,0)
-
-#### (2,0) Troco guloso
-
-Implemente uma solução gulosa para o problema do troco. Aumente o número de cédulas e teste.
-
-Faça commit e push em `unidade1/exercicio3` no seu repositório da disciplina.
-
-```java
 public class Troco {
     public static void main(String[] args) {
         //quero saber quantas cédulas foram dadas para esse troco
@@ -25,4 +16,3 @@ public class Troco {
         }
     }
 }
-```

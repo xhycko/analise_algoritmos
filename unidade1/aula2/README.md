@@ -26,7 +26,7 @@ Ao final do README.md, escreva uma análise comparativa entre os tempos observad
 
 Comente: Qual a ordem de complexidade de cada busca?
 
-Faça commit e push da sua implementação, junto com o arquivo .java modificado, todos na pasta unidade1/exercicio1.
+Faça commit e push da sua implementação, junto com o arquivo .java modificado, todos na pasta `unidade1/exercicio1`.
 
 Adicione a conta xhycko como colaborador do repositório para seu exercício seja corrigido.
 

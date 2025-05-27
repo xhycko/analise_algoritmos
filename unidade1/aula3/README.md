@@ -4,7 +4,7 @@
 
 Compare o desempenho, com o vetor de tamanho 10.000.000. Se quiser, use outro método de busca da linguagem.
 
-Faça commit e push da sua implementação, junto com análise de desempenho e os arquivos na pasta unidade1\exercicio2 no seu repositório da disciplina.
+Faça commit e push da sua implementação, junto com análise de desempenho e os arquivos na pasta `unidade1/exercicio2` no seu repositório da disciplina.
 
 Em python
 

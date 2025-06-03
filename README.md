@@ -17,15 +17,15 @@ Força bruta [aqui](unidade1/aula2).
 
 Análise assintótica e busca com [exercícios](unidade1/aula3).
 
-### U1 - Aula 4 - 29/05/2025 - Branch and Bounds, algoritmos gulosos (2,0)
+### U1 - Aula 4 - 29/05/2025 - Algoritmos gulosos (2,0)
 
-Branch and Bounds, gulosos com [exercícios](unidade1/aula4).
+Algoritmos gulosos com [exercícios](unidade1/aula4).
 
 ---
 
-### U2 - Aula 4 - ??/??/2025 - ?
+### U2 - Aula 5 - 05/06/2025 - 
 
-A ver com [exercícios](unidade1/aulaX.md).
+A ver com [exercícios](unidade2/aula5.md).
 
 ---
 

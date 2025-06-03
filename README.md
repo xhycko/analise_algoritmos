@@ -25,13 +25,13 @@ Algoritmos gulosos com [exercícios](unidade1/aula4).
 
 ### U2 - Aula 5 - 05/06/2025 - 
 
-A ver com [exercícios](unidade2/aula5.md).
+A ver com [exercícios](unidade2/aula5).
 
 ---
 
 ### U3 - Aula 8 - ??/??/2025 - ?
 
-A ver com [exercícios](unidade1/aulaX.md).
+A ver com [exercícios](unidade1/aulaX).
 
 ---
 

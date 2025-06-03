@@ -1,14 +1,18 @@
 public class Fibonacci {
 
-    public static int fibRec(int n) {
+    public static int fibRecursivo(int n) {
     }
 
-    public static int fibIter(int n) {
+    public static int fibIterativo(int n) {
     }
 
     public static void main(String[] args) {
-        int n = 10; //faça para 20, 50, 100. Comente o tempo e uso de memória.
+        //Exercício - faça para 10, 20, 50, 100, 1000
+        int n = ?;
+
+        //Exercício - Comente sobre o tempo e uso de memória.
         System.out.println("Recursivo: " + fibRecursivo(n));
+
         System.out.println("Iterativo: " + fibIterativo(n));
     }
 }

@@ -1,4 +1,4 @@
-### U2 - Aula 5 - 05/05/2025 - Algoritmos gulosos, Fibonnaci (1,0)
+### U2 - Aula 5 - 05/05/2025 - Algoritmos gulosos, Fibonnaci (2,0)
 
 #### Guloso e Fibonnaci 
 

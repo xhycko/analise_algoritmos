@@ -1,0 +1,8 @@
+if (contagem.containsKey(nome)) {
+    contagem.put(nome, contagem.get(nome) + 1);
+} else {
+    contagem.put(nome, 1);
+}
+
+for (String nome : contagem.keySet())
+    System.out.println(nome + ": " + contagem.get(nome));

@@ -23,9 +23,13 @@ Algoritmos gulosos com [exercícios](unidade1/aula4).
 
 ---
 
-### U2 - Aula 5 - 05/06/2025 - 
+### U2 - Aula 5 - 05/06/2025 - Recursivo e Iterativo (2,0)
 
-A ver com [exercícios](unidade2/aula5).
+Fibonacci com [exercícios](unidade2/aula5).
+
+### U2 - Aula 6 - 12/06/2025 - ? (2,0)
+
+A ver com [exercícios](unidade2/aula6).
 
 ---
 

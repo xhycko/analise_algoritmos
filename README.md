@@ -27,9 +27,9 @@ Algoritmos gulosos com [exercícios](unidade1/aula4).
 
 Fibonacci com [exercícios](unidade2/aula5).
 
-### U2 - Aula 6 - 12/06/2025 - ? (2,0)
+### U2 - Aula 6 - 12/06/2025 - Fibonacci e Hash (2,0)
 
-A ver com [exercícios](unidade2/aula6).
+Fibonacci e Hash com [exercícios](unidade2/aula6).
 
 ---
 
